@@ -1,2 +1,3 @@
 #se va a ignorar el archivo ignorar_esto.txt
 *.txt
+!readme.txt
