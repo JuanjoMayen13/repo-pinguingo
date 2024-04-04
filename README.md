@@ -1,4 +1,4 @@
-# papa-juan
+# titulo pinguingo
 primer repo creado en github
 
 ## descripcion
