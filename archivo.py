@@ -1,0 +1,3 @@
+nombre = "dlkjfad"
+
+print(nombre)
